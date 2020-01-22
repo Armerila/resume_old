@@ -23,7 +23,7 @@ $font: 'Rubik';
 $fontlight: 'Rubik-Light';
 
 #root {
-  position: relative;
+  position: absolute;
 }
 
 html, body {
@@ -145,7 +145,7 @@ img.home {
   color: $gray;
   border: 5px solid $sidebarcolor;
   border-radius: 25px;
-  padding: 16px 32px;
+  padding: 5px 30px;
   text-align: center;
   font-family: inherit;
   display: inline-block;

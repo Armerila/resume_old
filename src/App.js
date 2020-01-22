@@ -15,7 +15,8 @@ class App extends React.Component {
         paperSize= {"A4"}
         scale= {0.45}>
         <div className='root'>
-          <Home></Home><button className="load-button" onClick={this.exportPDFWithComponent}>Lataa PDF-muodossa</button>
+          <Home></Home>
+          <button className="load-button" onClick={this.exportPDFWithComponent}>Lataa PDF-muodossa</button>
           <Sidebar></Sidebar>
         </div>
       </PDFExport>
