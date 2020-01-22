@@ -1,10 +1,26 @@
-@import url('https://fonts.googleapis.com/css?family=Rubik:300');
+@font-face {
+  font-family: 'Rubik';
+  src: url('./assets/Rubik-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-Light';
+  src: url('./assets/Rubik-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-Bold';
+  src: url('./assets/Rubik-Bold.ttf') format('truetype');
+}
+
+
 $bg: #3f3d42;
 $sidebarcolor: #3e4e83;
 $homecolor: #ffffff;
 $white: #ecf0f1;
 $gray: #595e70;
 $font: 'Rubik';
+$fontlight: 'Rubik-Light';
 
 #root {
   position: relative;
@@ -28,34 +44,36 @@ html, body {
   padding: 30px;
   border-radius: 25px;
   display:inline-block;
-}
-
-.sidebar-p {
-  font: $font;
   color: $white;
+  font-family: $fontlight;
 }
 
 .home-div {
   box-shadow: 0 0px 50px hsla(0, 0, 0, 0.7);
-  background: radial-gradient($homecolor 0, darken($homecolor, 15%) 100%);
+  background: radial-gradient($homecolor 0, darken($homecolor, 15%) 100%) !important;
   position: relative;
   left: 50px;
   top: 20px;
   width: 800px;
-  height: 1000px;
   left: 500px;
   padding: 20px;
   border-radius: 25px;
+  overflow: auto;
   display:inline-block;
-}
-
-.home-p {
-  text-align: left;
-  font: $font;
   color: $gray;
 }
 
-a{
+hr {
+  color: $gray;
+}
+
+hr.thin {
+  color: #e6e6e6;
+  opacity: 0.5;
+}
+
+
+a {
   color: lightblue;
 }
 
@@ -63,27 +81,36 @@ h1 {
   text-align: center;
   font-size: 27px;
   letter-spacing: 4px;
-  font-weight: bold;
+  font-weight: 100;
 }
 
 h2 {
   text-align: center;
   font-size: 15px;
   letter-spacing: 2px;
+  margin-bottom: 50px;
+  font-weight: 100;
 }
 
 h3 {
   text-align: left;
   font-size: 22px;
   letter-spacing: 4px;
-  padding-top: 30px;
+  font-weight: 100;
 }
 
 h4 {
   display: list-item;
   list-style-type: disc;
   list-style-position: inside;
-  font-weight: 500; 
+  font-weight: 100;
+}
+
+h5 {
+  text-align: left;
+  font-size: 17px;
+  margin-bottom: 0;
+  font-weight: 100;
 }
 
 .tabbed {
@@ -103,12 +130,43 @@ img.rounded {
 }
 
 img.small {
-  height: 30px;
-  width: 100px;
+  height: 40px;
+  width: 130px;
   padding-top: 10px;
 }
 
 img.home {
-  height: 70px;
-  width: 55px;
+  height: 60px;
+  width: 60px;
 }
+
+.load-button {
+  background-color: $homecolor;
+  color: $gray;
+  border: 5px solid $sidebarcolor;
+  border-radius: 25px;
+  padding: 16px 32px;
+  text-align: center;
+  font-family: inherit;
+  display: inline-block;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  position: absolute;
+  cursor: pointer;
+}
+
+.load-button:hover {
+  background-color: $sidebarcolor;
+  color: white;
+}
+
+.k-pdf-export .sidebar{
+  color: $gray;
+}
+
+.k-pdf-export .load-button{
+  display: none;
+}
+
+
