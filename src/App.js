@@ -13,7 +13,7 @@ class App extends React.Component {
         margin={{ top: 20, left: 0, right: 10, bottom: 20 }}
         fileName="CV_Arttu_Merilainen.pdf"
         paperSize= {"A4"}
-        scale= {0.45}>
+        scale= {0.43}>
         <div className='root'>
           <Home></Home>
           <button className="load-button" onClick={this.exportPDFWithComponent}>Lataa PDF-muodossa</button>
