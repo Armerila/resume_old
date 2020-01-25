@@ -32,7 +32,7 @@ class Home extends React.Component {
           <hr className='thin'></hr>
           <h5>Myyntineuvottelija</h5>
           Sanoma Media Finland Oy. Oulu | 9/2014 - 12/2014 ja 10/2013 - 12/2013
-            <h4>Aikakausi- ja erikoislehtien myynti projekteittain yksityistalouksiin.</h4>
+            <h4>Aikakaus- ja erikoislehtien myynti projekteittain yksityistalouksiin.</h4>
           <hr></hr>
 
           <h3>Kurssit ja projektit <img src={require('../assets/kurssi.png')} className='home' /></h3>
@@ -49,7 +49,7 @@ class Home extends React.Component {
           <h4>Projektikumppanimme lisensoi projektimme tulosraportin.</h4>
           <hr></hr>
 
-          <h3>Kielitaito:</h3>
+          <h3>Kielitaito:<img src={require('../assets/lang.png')} className='home'/></h3>
           <p><b>Suomi -</b> Äidinkieli <br></br>
             <b>Englanti -</b> Erinomainen <br></br>
             <b>Ruotsi -</b> Perusteet
