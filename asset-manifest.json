@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Armerila/resume.git/static/css/main.50387746.chunk.css",
+    "main.js": "/Armerila/resume.git/static/js/main.b4486c96.chunk.js",
+    "main.js.map": "/Armerila/resume.git/static/js/main.b4486c96.chunk.js.map",
+    "runtime-main.js": "/Armerila/resume.git/static/js/runtime-main.d03e3639.js",
+    "runtime-main.js.map": "/Armerila/resume.git/static/js/runtime-main.d03e3639.js.map",
+    "static/js/2.bdb5ff63.chunk.js": "/Armerila/resume.git/static/js/2.bdb5ff63.chunk.js",
+    "static/js/2.bdb5ff63.chunk.js.map": "/Armerila/resume.git/static/js/2.bdb5ff63.chunk.js.map",
+    "index.html": "/Armerila/resume.git/index.html",
+    "precache-manifest.925fc1ad16d5a970bcf3217aa0b0d028.js": "/Armerila/resume.git/precache-manifest.925fc1ad16d5a970bcf3217aa0b0d028.js",
+    "service-worker.js": "/Armerila/resume.git/service-worker.js",
+    "static/css/main.50387746.chunk.css.map": "/Armerila/resume.git/static/css/main.50387746.chunk.css.map",
+    "static/js/2.bdb5ff63.chunk.js.LICENSE": "/Armerila/resume.git/static/js/2.bdb5ff63.chunk.js.LICENSE",
+    "static/media/GitHub_Logo.png": "/Armerila/resume.git/static/media/GitHub_Logo.cefc2023.png",
+    "static/media/LI-Logo.png": "/Armerila/resume.git/static/media/LI-Logo.c24cde28.png",
+    "static/media/App.scss": "/Armerila/resume.git/static/media/Rubik-Regular.b3d0902b.ttf",
+    "static/media/koulutus.png": "/Armerila/resume.git/static/media/koulutus.85a1cedf.png",
+    "static/media/kurssi.png": "/Armerila/resume.git/static/media/kurssi.20f35dee.png",
+    "static/media/omakuva.jpg": "/Armerila/resume.git/static/media/omakuva.c58e137f.jpg",
+    "static/media/tyo.png": "/Armerila/resume.git/static/media/tyo.9752eee3.png",
+    "static/media/yhteys.png": "/Armerila/resume.git/static/media/yhteys.63324edc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d03e3639.js",
+    "static/js/2.bdb5ff63.chunk.js",
+    "static/css/main.50387746.chunk.css",
+    "static/js/main.b4486c96.chunk.js"
+  ]
+}
