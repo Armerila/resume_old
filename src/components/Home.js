@@ -15,7 +15,7 @@ class Home extends React.Component {
           <hr></hr>
 
           <h3>Työkokemus<img src={require('../assets/tyo.png')} className='home' /></h3>
-          <h5>Ohjelmistokehittäjä harjoittelija</h5>
+          <h5>Ohjelmistokehittäjäharjoittelija</h5>
           Tuudo Oy. Oulu | 06/2019 - 08/2019
             <h4>Ohjelmistokehittäjän tehtävissä toimin osana ketterää ohjelmistokehitystiimiä,
             jossa osallistuin sekä asiakas-, että palvelinpuolen kehitykseen.</h4>
@@ -39,7 +39,7 @@ class Home extends React.Component {
           <h5>Project work -kurssi</h5>
           Oulun yliopisto, Tuotantotalouden yksikkö. | 1/2019 - 5/2019
             <h4>Kandidaatin tutkintoon kuuluva kurssi, jossa työskentelin osana 4-hengen ryhmää.
-            Tehtävämme oli kehittää opetuskäyttöön tarkoitettuun peliin helppokäyttöinen kenttäeditori</h4>
+            Tehtävämme oli kehittää opetuskäyttöön tarkoitettuun peliin helppokäyttöinen kenttäeditori.</h4>
           <h4>Vastuualueinani olivat käyttöliittymäsuunnittelu- ja ohjelmointi, sekä käyttäjätestausten järjestäminen ja dokumentointi.</h4>
           <hr className='thin'></hr>
           <h5>Demola 'Teatria Backstage' projekti</h5>

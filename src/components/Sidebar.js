@@ -16,8 +16,24 @@ class Sidebar extends React.Component {
           Olen kiinnostunut etenkin web-kehittämisestä ja suunnittelusta,
               sekä datan hyödyntämisestä ja visualisoinnista.</h4>
           <h4>Minulla on kokemusta sekä front- että back-end ohjelmoinnista.
-          Opinnoissani olen myös tutustunut erilaisiin data-analyysimenetelmiin ja työkaluihin.
-              </h4>
+          Opinnoissani olen myös tutustunut erilaisiin data-analyysimenetelmiin ja työkaluihin.</h4>
+          <br></br>
+  
+          <h3>Tekniset taidot</h3>
+          <p>
+            <b>Ohjelmointikielet ja teknologiat:</b><br></br>
+            JavaScript, Python, R, Java, React,
+            Node.js, Express.js, HTML/CSS/Sass<br></br>
+            <br></br>
+            <b>Version- ja projektinhallinta:</b><br></br>
+            Git, GitLab, ketterä kehitys<br></br>
+            <br></br>
+            <b>Tietokannat:</b><br></br>
+            PostgreSQL, SQLite, MongoDB<br></br>
+            <br></br>
+            <b>Mallinnus ja suunnittelu:</b><br></br>
+            Visual Paradigm, Figma, GIMP, Adobe Photoshop
+          </p>
           <h3>Yhteystiedot<img src={require('../assets/yhteys.png')} className='home'/></h3>
           <p>
             Lapintie 32 D 34<br></br>
