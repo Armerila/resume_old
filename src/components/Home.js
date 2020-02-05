@@ -40,7 +40,7 @@ class Home extends React.Component {
           Oulun yliopisto, Tuotantotalouden yksikkö. | 1/2019 - 5/2019
             <h4>Kandidaatin tutkintoon kuuluva kurssi, jossa työskentelin osana 4-hengen ryhmää.
             Tehtävämme oli kehittää opetuskäyttöön tarkoitettuun peliin helppokäyttöinen kenttäeditori.</h4>
-          <h4>Vastuualueinani olivat käyttöliittymäsuunnittelu- ja ohjelmointi, sekä käyttäjätestausten järjestäminen ja dokumentointi.</h4>
+          <h4>Vastuualueinani olivat käyttöliittymäsuunnittelu ja -ohjelmointi, sekä käyttäjätestausten järjestäminen ja dokumentointi.</h4>
           <hr className='thin'></hr>
           <h5>Demola 'Teatria Backstage' projekti</h5>
           Demola Global Oy, Teatria Oy. Oulu | 3/2018 - 6/2018
