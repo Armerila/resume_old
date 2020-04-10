@@ -6,7 +6,7 @@ class Sidebar extends React.Component {
     return (
       <div className='sidebar'>
         <div>
-          <img src={require('../assets/omakuva.jpg')} className='rounded' />
+          <img src={require('../assets/omakuva.jpg')} alt='A headshot of me' className='rounded' />
         </div>
         <div>
           <h1>Arttu Meriläinen</h1>
@@ -34,7 +34,7 @@ class Sidebar extends React.Component {
             <b>Mallinnus ja suunnittelu:</b><br></br>
             Visual Paradigm, Figma, GIMP, Adobe Photoshop
           </p>
-          <h3>Yhteystiedot<img src={require('../assets/yhteys.png')} className='home'/></h3>
+          <h3>Yhteystiedot<img src={require('../assets/yhteys.png')} alt='' className='home'/></h3>
           <p>
             Lapintie 32 D 34<br></br>
             33100 TAMPERE<br></br>
@@ -42,10 +42,10 @@ class Sidebar extends React.Component {
             <a href='mailto:arttu.merilainen@tuni.fi'>arttu.merilainen@tuni.fi</a><br></br>
             Syntynyt 02.05.1995 Oulussa<br></br>
             <a href='https://www.linkedin.com/in/armerila/'>
-              <img src={require('../assets/LI-Logo.png')} className='small' />
+              <img src={require('../assets/LI-Logo.png')} alt='Clickable Linkedin logo' className='small' />
             </a><br></br>
             <a href='https://github.com/Armerila'>
-              <img src={require('../assets/GitHub_Logo.png')} className='small' />
+              <img src={require('../assets/GitHub_Logo.png')}alt='Clickable GitHub logo' className='small' />
             </a>
           </p>
         </div>
