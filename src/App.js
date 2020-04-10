@@ -10,14 +10,14 @@ class App extends React.Component {
   render() {
     return (
       <PDFExport ref={(component) => this.pdfExportComponent = component}
-        margin={{ top: 20, left: 0, right: 10, bottom: 20 }}
+        margin={{ top: 20, left: 10, right: 10, bottom: 20 }}
         fileName="CV_Arttu_Merilainen.pdf"
-        paperSize= {"A4"}
-        scale= {0.43}>
+        keepTogether="home-div"
+        scale= {0.7}>
         <div className='root'>
-          <Home></Home>
+          <Home />
           <button className="load-button" onClick={this.exportPDFWithComponent}>Lataa PDF-muodossa</button>
-          <Sidebar></Sidebar>
+          <Sidebar />
         </div>
       </PDFExport>
     );
