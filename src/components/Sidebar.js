@@ -10,7 +10,7 @@ class Sidebar extends React.Component {
         </div>
         <div>
           <h1>Arttu Meriläinen</h1>
-          <h2>Junior ohjelmistokehittäjä</h2>
+          <h2>Ohjelmistokehittäjä/suunnitelija</h2>
           <h3>Profiili </h3>
           <h4>Olen 24-vuotias uraani aloitteleva ohjelmistokehittäjä.
           Olen kiinnostunut etenkin web-kehittämisestä ja suunnittelusta,
@@ -22,14 +22,14 @@ class Sidebar extends React.Component {
           <h3>Tekniset taidot</h3>
           <p>
             <b>Ohjelmointikielet ja teknologiat:</b><br></br>
-            JavaScript, Python, R, Java, React,
-            Node.js, Express.js, HTML/CSS/Sass<br></br>
+            JavaScript/TypeScript, Python, R, Java, React,
+            Node.js, Express.js, HTML/CSS, GraphQL, AWS<br></br>
             <br></br>
             <b>Version- ja projektinhallinta:</b><br></br>
-            Git, GitLab, ketterä kehitys<br></br>
+            Git, GitLab, Jira, Bitbucket, Scrum<br></br>
             <br></br>
             <b>Tietokannat:</b><br></br>
-            PostgreSQL, SQLite, MongoDB<br></br>
+            PostgreSQL, SQLite, MongoDB, DynamoDB<br></br>
             <br></br>
             <b>Mallinnus ja suunnittelu:</b><br></br>
             Visual Paradigm, Figma, GIMP, Adobe Photoshop

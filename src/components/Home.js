@@ -10,7 +10,7 @@ class Home extends React.Component {
           <p>Tampereen yliopisto | 2019 - </p>
           <hr className='thin'></hr>
           <h5>Luonnontieteiden kandidaatti, pääaine: Tietojenkäsittelytiede<br></br> </h5>
-          <p>Sivuaine: psykologia<br></br>
+          <p>Sivuaine: Psykologia<br></br>
           Oulun yliopisto | 2015 - 2019<br></br> </p>
           <hr className='thin'></hr>
           <h5>Ylioppilas<br></br></h5>
