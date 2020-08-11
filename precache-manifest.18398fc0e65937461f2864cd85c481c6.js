@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d92846836287427c4147a1de377891a",
+    "revision": "043c826dac08322abfb3cfe1a8fb3559",
     "url": "/resume/index.html"
   },
   {
-    "revision": "0b8dcc0309ae18debce0",
-    "url": "/resume/static/css/main.4ca25dee.chunk.css"
+    "revision": "f6b5ba34d1e761c3361a",
+    "url": "/resume/static/css/main.ba15a2da.chunk.css"
   },
   {
-    "revision": "b3172ae71f598e2faf15",
-    "url": "/resume/static/js/2.bdb5ff63.chunk.js"
+    "revision": "d040240ad3d981d08e4f",
+    "url": "/resume/static/js/2.cabae798.chunk.js"
   },
   {
-    "revision": "fb76c9f8f8182087f9c180bc5fcbff28",
-    "url": "/resume/static/js/2.bdb5ff63.chunk.js.LICENSE"
+    "revision": "2c598234c7a24970b5fdf032f602e7bc",
+    "url": "/resume/static/js/2.cabae798.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b8dcc0309ae18debce0",
-    "url": "/resume/static/js/main.81af4208.chunk.js"
+    "revision": "f6b5ba34d1e761c3361a",
+    "url": "/resume/static/js/main.8aade35b.chunk.js"
   },
   {
-    "revision": "540de6763af4833a1da8",
-    "url": "/resume/static/js/runtime-main.64f02ed5.js"
+    "revision": "8c1d914a1677cea53979",
+    "url": "/resume/static/js/runtime-main.75d8c91e.js"
   },
   {
     "revision": "cefc20232703e5e3c24efd5f50d75e26",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/media/kurssi.20f35dee.png"
   },
   {
-    "revision": "c58e137f08c32922df36cf4dc05c3211",
-    "url": "/resume/static/media/omakuva.c58e137f.jpg"
+    "revision": "7288961f7b91bdfb8a4b48e4bf1c868d",
+    "url": "/resume/static/media/omakuva.7288961f.jpg"
   },
   {
     "revision": "9752eee32711bf716558999c28109e3e",

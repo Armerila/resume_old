@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.4ca25dee.chunk.css",
-    "main.js": "/resume/static/js/main.81af4208.chunk.js",
-    "main.js.map": "/resume/static/js/main.81af4208.chunk.js.map",
-    "runtime-main.js": "/resume/static/js/runtime-main.64f02ed5.js",
-    "runtime-main.js.map": "/resume/static/js/runtime-main.64f02ed5.js.map",
-    "static/js/2.bdb5ff63.chunk.js": "/resume/static/js/2.bdb5ff63.chunk.js",
-    "static/js/2.bdb5ff63.chunk.js.map": "/resume/static/js/2.bdb5ff63.chunk.js.map",
+    "main.css": "/resume/static/css/main.ba15a2da.chunk.css",
+    "main.js": "/resume/static/js/main.8aade35b.chunk.js",
+    "main.js.map": "/resume/static/js/main.8aade35b.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.75d8c91e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.75d8c91e.js.map",
+    "static/js/2.cabae798.chunk.js": "/resume/static/js/2.cabae798.chunk.js",
+    "static/js/2.cabae798.chunk.js.map": "/resume/static/js/2.cabae798.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.30420572d34c5b575a8e7b6a8fb4ff6a.js": "/resume/precache-manifest.30420572d34c5b575a8e7b6a8fb4ff6a.js",
+    "precache-manifest.18398fc0e65937461f2864cd85c481c6.js": "/resume/precache-manifest.18398fc0e65937461f2864cd85c481c6.js",
     "service-worker.js": "/resume/service-worker.js",
-    "static/css/main.4ca25dee.chunk.css.map": "/resume/static/css/main.4ca25dee.chunk.css.map",
-    "static/js/2.bdb5ff63.chunk.js.LICENSE": "/resume/static/js/2.bdb5ff63.chunk.js.LICENSE",
+    "static/css/main.ba15a2da.chunk.css.map": "/resume/static/css/main.ba15a2da.chunk.css.map",
+    "static/js/2.cabae798.chunk.js.LICENSE.txt": "/resume/static/js/2.cabae798.chunk.js.LICENSE.txt",
     "static/media/GitHub_Logo.png": "/resume/static/media/GitHub_Logo.cefc2023.png",
     "static/media/LI-Logo.png": "/resume/static/media/LI-Logo.c24cde28.png",
     "static/media/App.scss": "/resume/static/media/Rubik-Regular.b3d0902b.ttf",
     "static/media/koulutus.png": "/resume/static/media/koulutus.85a1cedf.png",
     "static/media/kurssi.png": "/resume/static/media/kurssi.20f35dee.png",
-    "static/media/omakuva.jpg": "/resume/static/media/omakuva.c58e137f.jpg",
+    "static/media/omakuva.jpg": "/resume/static/media/omakuva.7288961f.jpg",
     "static/media/tyo.png": "/resume/static/media/tyo.9752eee3.png",
     "static/media/yhteys.png": "/resume/static/media/yhteys.63324edc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.64f02ed5.js",
-    "static/js/2.bdb5ff63.chunk.js",
-    "static/css/main.4ca25dee.chunk.css",
-    "static/js/main.81af4208.chunk.js"
+    "static/js/runtime-main.75d8c91e.js",
+    "static/js/2.cabae798.chunk.js",
+    "static/css/main.ba15a2da.chunk.css",
+    "static/js/main.8aade35b.chunk.js"
   ]
 }
