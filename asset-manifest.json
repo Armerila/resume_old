@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.272cd9fe.chunk.css",
-    "main.js": "/static/js/main.2dd3b145.chunk.js",
-    "main.js.map": "/static/js/main.2dd3b145.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3bbf3189.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3bbf3189.js.map",
-    "static/js/2.cabae798.chunk.js": "/static/js/2.cabae798.chunk.js",
-    "static/js/2.cabae798.chunk.js.map": "/static/js/2.cabae798.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0fef19acdfd336a95808b28c9b09b6fb.js": "/precache-manifest.0fef19acdfd336a95808b28c9b09b6fb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.272cd9fe.chunk.css.map": "/static/css/main.272cd9fe.chunk.css.map",
-    "static/js/2.cabae798.chunk.js.LICENSE.txt": "/static/js/2.cabae798.chunk.js.LICENSE.txt",
-    "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.cefc2023.png",
-    "static/media/LI-Logo.png": "/static/media/LI-Logo.c24cde28.png",
-    "static/media/App.scss": "/static/media/Rubik-Regular.b3d0902b.ttf",
-    "static/media/koulutus.png": "/static/media/koulutus.85a1cedf.png",
-    "static/media/kurssi.png": "/static/media/kurssi.20f35dee.png",
-    "static/media/omakuva.jpg": "/static/media/omakuva.7288961f.jpg",
-    "static/media/tyo.png": "/static/media/tyo.9752eee3.png",
-    "static/media/yhteys.png": "/static/media/yhteys.63324edc.png"
+    "main.css": "/resume/static/css/main.ba15a2da.chunk.css",
+    "main.js": "/resume/static/js/main.2280517e.chunk.js",
+    "main.js.map": "/resume/static/js/main.2280517e.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.75d8c91e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.75d8c91e.js.map",
+    "static/js/2.cabae798.chunk.js": "/resume/static/js/2.cabae798.chunk.js",
+    "static/js/2.cabae798.chunk.js.map": "/resume/static/js/2.cabae798.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.b193782eaadda378c0446ab5d1521508.js": "/resume/precache-manifest.b193782eaadda378c0446ab5d1521508.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.ba15a2da.chunk.css.map": "/resume/static/css/main.ba15a2da.chunk.css.map",
+    "static/js/2.cabae798.chunk.js.LICENSE.txt": "/resume/static/js/2.cabae798.chunk.js.LICENSE.txt",
+    "static/media/GitHub_Logo.png": "/resume/static/media/GitHub_Logo.cefc2023.png",
+    "static/media/LI-Logo.png": "/resume/static/media/LI-Logo.c24cde28.png",
+    "static/media/App.scss": "/resume/static/media/Rubik-Regular.b3d0902b.ttf",
+    "static/media/koulutus.png": "/resume/static/media/koulutus.85a1cedf.png",
+    "static/media/kurssi.png": "/resume/static/media/kurssi.20f35dee.png",
+    "static/media/omakuva.jpg": "/resume/static/media/omakuva.7288961f.jpg",
+    "static/media/tyo.png": "/resume/static/media/tyo.9752eee3.png",
+    "static/media/yhteys.png": "/resume/static/media/yhteys.63324edc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3bbf3189.js",
+    "static/js/runtime-main.75d8c91e.js",
     "static/js/2.cabae798.chunk.js",
-    "static/css/main.272cd9fe.chunk.css",
-    "static/js/main.2dd3b145.chunk.js"
+    "static/css/main.ba15a2da.chunk.css",
+    "static/js/main.2280517e.chunk.js"
   ]
 }
