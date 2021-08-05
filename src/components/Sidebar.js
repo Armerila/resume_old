@@ -2,7 +2,13 @@ import React from 'react';
 
 
 class Sidebar extends React.Component {
-  render() {
+  render() { 
+    function calculate_age(dob) { 
+      var diff_ms = Date.now() - dob.getTime();
+      var age_dt = new Date(diff_ms); 
+    
+      return Math.abs(age_dt.getUTCFullYear() - 1970);
+  }
     return (
       <div className='sidebar'>
         <div>
@@ -12,7 +18,7 @@ class Sidebar extends React.Component {
           <h1>Arttu Meriläinen</h1>
           <h2>Ohjelmistokehittäjä/suunnitelija</h2>
           <h3>Profiili </h3>
-          <h4>Olen 24-vuotias uraani aloitteleva ohjelmistokehittäjä.
+          <h4>Olen {calculate_age(new Date("1995-05-02"))}-vuotias uraani aloitteleva ohjelmistokehittäjä.
           Olen kiinnostunut etenkin web-kehittämisestä ja suunnittelusta,
               sekä datan hyödyntämisestä ja visualisoinnista.</h4>
           <h4>Minulla on kokemusta sekä front- että back-end ohjelmoinnista.
