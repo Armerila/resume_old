@@ -18,6 +18,12 @@ class Home extends React.Component {
           <hr></hr>
 
           <h3>Työkokemus<img src={require('../assets/tyo.png')} alt='' className='home' /></h3>
+          <h5>Ohjelmistokehittäjä/suunnittelija</h5>
+          <p>eSend Finland Oy. Tampere | 06/2020 - </p>
+            <h4>Aloitin tehtäväni uusien toiminnallisuuksien visuaalisena suunnittelijana. Myöhemmin siirryin
+              monipuolisiin ohjelmoinnin tehtäviin, sekä front-, että backend puolella.</h4>
+          <h4>Sain kokemusta vastuullisesta ja itsenäisestä toiminallisuuksien kehittämisestä alusta loppuun.</h4>
+          <hr className='thin'></hr>
           <h5>Ohjelmistokehittäjäharjoittelija</h5>
           <p>Tuudo Oy. Oulu | 06/2019 - 08/2019</p>
             <h4>Ohjelmistokehittäjän tehtävissä toimin osana ketterää ohjelmistokehitystiimiä,
@@ -32,10 +38,6 @@ class Home extends React.Component {
           <h5>Hautuumaatyöntekijä</h5>
           <p>Paimion seurakunta. Paimio | 8/2017 - 9/2017</p>
             <h4>Kausiluonteista puutarha- ja hautuumaan hoitotyötä.</h4>
-          <hr className='thin'></hr>
-          <h5>Myyntineuvottelija</h5>
-          <p>Sanoma Media Finland Oy. Oulu | 9/2014 - 12/2014 ja 10/2013 - 12/2013</p>
-            <h4>Aikakaus- ja erikoislehtien myynti projekteittain yksityistalouksiin.</h4>
           <hr></hr>
 
           <h3>Kurssit ja projektit <img src={require('../assets/kurssi.png')} alt='' className='home' /></h3>
