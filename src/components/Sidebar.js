@@ -18,11 +18,10 @@ class Sidebar extends React.Component {
           <h1>Arttu Meriläinen</h1>
           <h2>Ohjelmistokehittäjä/suunnitelija</h2>
           <h3>Profiili </h3>
-          <h4>Olen {calculate_age(new Date("1995-05-02"))}-vuotias uraani aloitteleva ohjelmistokehittäjä.
+          <h4>Olen {calculate_age(new Date("1995-05-02"))}-vuotias ohjelmistokehittäjä.
           Olen kiinnostunut etenkin web-kehittämisestä ja suunnittelusta,
               sekä datan hyödyntämisestä ja visualisoinnista.</h4>
-          <h4>Minulla on kokemusta sekä front- että back-end ohjelmoinnista.
-          Opinnoissani olen myös tutustunut erilaisiin data-analyysimenetelmiin ja työkaluihin.</h4>
+          <h4>Opinnoissani olen myös tutustunut erilaisiin data-analyysimenetelmiin ja työkaluihin.</h4>
           <br></br>
   
           <h3>Tekniset taidot</h3>
@@ -42,11 +41,9 @@ class Sidebar extends React.Component {
           </p>
           <h3>Yhteystiedot<img src={require('../assets/yhteys.png')} alt='' className='home'/></h3>
           <p>
-            Lapintie 32 D 34<br></br>
-            33100 TAMPERE<br></br>
+            TAMPERE<br></br>
             0443020596<br></br>
             <a href='mailto:arttu.merilainen@tuni.fi'>arttu.merilainen@tuni.fi</a><br></br>
-            Syntynyt 02.05.1995 Oulussa<br></br>
             <a href='https://www.linkedin.com/in/armerila/'>
               <img src={require('../assets/LI-Logo.png')} alt='Clickable Linkedin logo' className='small' />
             </a><br></br>
